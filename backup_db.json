@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "ID": 1,
+      "author": "Ivan",
+      "text": "Hello World 1",
+      "timestamp": 1234567
+    },
+    {
+      "ID": 2,
+      "author": "Vasyan",
+      "text": "Hello World 2",
+      "timestamp": 1234567
+    },
+    {
+      "ID": 3,
+      "author": "Vovan",
+      "text": "Hi World 3",
+      "timestamp": 1234567
+    }
+  ]
+}
